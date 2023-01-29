@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/hopacho">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.tiktok.com/@hopacho">
-    <img src="https://img.shields.io/badge/Tiktok-cyan?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Tiktok-orange?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
 </div>
 <img src="https://visitcount.itsvg.in/api?id=demitraps&icon=5&color=10" alt=""/>
@@ -39,6 +39,6 @@
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=demitraps&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
