@@ -25,7 +25,7 @@
 
 
 ## About Me:
-👾 I’m currently working on a fun game app<br>🌱 I’m learning React, C#, Unity<br>📚 I plan on learning TypeScript, Electron.js, Python<br>✉️ I am an avid origami artist<br>💬 Ask me about my favorite VSCode extension<br>🎌 Fun fact: I am currently learning Japanese
+👾 I’m currently working on a fun game app<br>🌱 I’m learning React, C#, Unity<br>📚 I plan on learning TypeScript, Python<br>✉️ I am an avid origami artist<br>💬 Ask me about my favorite VSCode extension<br>🎌 Fun fact: I am currently learning Japanese
 
 
 
