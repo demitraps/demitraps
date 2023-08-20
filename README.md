@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/demitra-psychogyiou/">
+  <a href="https://www.linkedin.com/in/dimitra-psychogyiou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/hopacho">
